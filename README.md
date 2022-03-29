@@ -1,0 +1,2 @@
+# forEachWork
+forEach work (console)
